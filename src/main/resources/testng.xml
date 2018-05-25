@@ -1,0 +1,12 @@
+<suite name="TestSuite">
+    <test name="GitHub">
+        <classes>
+            <class name="epam.com.lab.test.GitHubTest"/>
+        </classes>
+    </test>
+    <test name="Gmail">
+        <classes>
+            <class name="epam.com.lab.test.GmailTest"/>
+        </classes>
+    </test>
+</suite>
